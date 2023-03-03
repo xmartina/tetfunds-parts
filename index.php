@@ -12,7 +12,7 @@
 <body>
     <div class="projects-section">
         <div class="container">
-            <div class="row">
+            <div class="row p_relative">
 <!--                TetFunds Navigation -->
                 <div class="col-lg-3">
                     <div class="nav-menu-wrapper">
@@ -165,8 +165,8 @@
                     </div>
                 </div>
 <!--                TetFunds Data Display-->
-                <div class="col-lg-9">
-                    <div class="data-display-wrapper">
+                <div class="col-lg-9 ">
+                    <div class="data-display-wrapper p_sticky">
                         <div class="row gy-5 gx-5">
                             <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 ">
                                 <div class="tetfund-data-box">
