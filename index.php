@@ -68,6 +68,14 @@
                             <div class="list-menu">
                                 <div class="row d-flex align-items-center justify-content-start">
                                     <div class="col-lg-2"> <span class="Physical-infrastructure-icon"></span></div>
+                                    <div class="col-lg-7 d-flex align-items-center justify-start justify-content-start">Physical Infrastructure</div>
+                                    <div class="col-lg-2"><span class="nav-icon-right-styling right-arrow-icon-darkgray"></span></div>
+                                </div>
+
+                            </div>
+                            <div class="list-menu">
+                                <div class="row d-flex align-items-center justify-content-start">
+                                    <div class="col-lg-2"> <span class="Physical-infrastructure-icon"></span></div>
                                     <div class="col-lg-7 d-flex align-items-center justify-start justify-content-start">Academic Manuscript Development</div>
                                     <div class="col-lg-2"><span class="nav-icon-right-styling right-arrow-icon-darkgray"></span></div>
                                 </div>
@@ -153,19 +161,11 @@
                                 </div>
 
                             </div>
-                            <div class="list-menu">
-                                <div class="row d-flex align-items-center justify-content-start">
-                                    <div class="col-lg-2"> <span class="Physical-infrastructure-icon"></span></div>
-                                    <div class="col-lg-7 d-flex align-items-center justify-start justify-content-start">Physical Infrastructure</div>
-                                    <div class="col-lg-2"><span class="nav-icon-right-styling right-arrow-icon-darkgray"></span></div>
-                                </div>
-
-                            </div>
                         </div>
                     </div>
                 </div>
 <!--                TetFunds Data Display-->
-                <div class="col-lg-8">
+                <div class="col-lg-9">
                     <div class="data-display-wrapper">
                         <div class="row gy-5 gx-5">
                             <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 ">
@@ -184,11 +184,11 @@
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-sm-30">
                                 <div class="tetfund-data-box">
-                                    <div class="data-img-box senate-building-img"></div>
+                                    <div class="data-img-box faculty-of-humanities-img"></div>
                                     <div class="content-box">
-                                        <div class="title">SENATE BUILDING</div>
+                                        <div class="title">Faculty of Humanities</div>
                                         <div class="content">
-                                            This is a year 2014 intervention project that started in 2015 but
+                                            This is a year 2017 special high impact intervention started same year but completed in year 2020.
                                         </div>
                                     </div>
                                     <div class="button-box">
@@ -198,11 +198,11 @@
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-sm-30">
                                 <div class="tetfund-data-box">
-                                    <div class="data-img-box senate-building-img"></div>
+                                    <div class="data-img-box faculty-of-social-science-img"></div>
                                     <div class="content-box">
-                                        <div class="title">SENATE BUILDING</div>
+                                        <div class="title">Faculty of Social Sciences</div>
                                         <div class="content">
-                                            This is a year 2014 intervention project that started in 2015 but
+                                            This is also a year 2017 special high impact intervention built same year and completed in 2020
                                         </div>
                                     </div>
                                     <div class="button-box">
@@ -212,11 +212,11 @@
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-30">
                                 <div class="tetfund-data-box">
-                                    <div class="data-img-box senate-building-img"></div>
+                                    <div class="data-img-box faculty-of-education-img"></div>
                                     <div class="content-box">
-                                        <div class="title">SENATE BUILDING</div>
+                                        <div class="title">Faculty of Education</div>
                                         <div class="content">
-                                            This is a year 2014 intervention project that started in 2015 but
+                                            This is a year 2017 interventions project which commenced in 2017 and was completed in 2020.
                                         </div>
                                     </div>
                                     <div class="button-box">
@@ -226,11 +226,25 @@
                             </div>
                             <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-30">
                                 <div class="tetfund-data-box">
-                                    <div class="data-img-box senate-building-img"></div>
+                                    <div class="data-img-box nos-lecture-theatres-img"></div>
                                     <div class="content-box">
-                                        <div class="title">SENATE BUILDING</div>
+                                        <div class="title">NOS Lecture Theatres</div>
                                         <div class="content">
-                                            This is a year 2014 intervention project that started in 2015 but
+                                            These are years 2015-2016 interventions projects which commenced in 2015 and were completed in 2017
+                                        </div>
+                                    </div>
+                                    <div class="button-box">
+                                        <button class="btn-custom">View Project <div class="right-arrow-icon-dark btn-arrow-theme"></div></button>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-30">
+                                <div class="tetfund-data-box">
+                                    <div class="data-img-box nos2-hostel-img"></div>
+                                    <div class="content-box">
+                                        <div class="title">2 NOS 2 storey 300 capacity students hostel</div>
+                                        <div class="content">
+                                            This is one of the very important interventions meant to ameliorate the accommodation
                                         </div>
                                     </div>
                                     <div class="button-box">

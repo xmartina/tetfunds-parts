@@ -47,6 +47,10 @@ h2.nav-title{
 .right-arrow-icon-darkgray{
     background-image: url('icon/arrow-up-right-dark-gray.svg');
 }
+.nav-menu-list .list-menu:hover .right-arrow-icon-darkgray{
+    background-image: url('icon/arrow-up-right-green-bg.svg');
+    transition: all 450ms linear;
+}
 .nav-menu-list{
     margin-top: 18px;
     font-family: 'Kulim Park', sans-serif;
@@ -62,6 +66,10 @@ h2.nav-title{
 .nav-menu-list .list-menu {
     font-size: 15px;
     font-weight: 600;
+}
+.nav-menu-list .list-menu:hover{
+    color: #2fbd07;
+    transition: all 450ms linear;
 }
 .justify-self-start{
     justify-self: left;
@@ -81,6 +89,21 @@ h2.nav-title{
 }
 .senate-building-img{
     background-image: url('https://site.ng/imsu-tetfund/images/sen.jpg');
+}
+.faculty-of-humanities-img{
+    background-image: url('https://site.ng/imsu-tetfund/images/foh.jpg');
+}
+.faculty-of-social-science-img{
+    background-image: url('https://site.ng/imsu-tetfund/images/bg1.jpg');
+}
+.faculty-of-education-img{
+    background-image: url('https://site.ng/imsu-tetfund/images/bg2.jpg');
+}
+.nos-lecture-theatres-img{
+    background-image: url('https://site.ng/imsu-tetfund/images/bg4.jpg');
+}
+.nos2-hostel-img{
+    background-image: url('https://tetfund.imsu.edu.ng/images/nos-2.jpg');
 }
 .data-img-box{
     width: 100%;
@@ -118,6 +141,11 @@ background-position: center;
     font-weight: 400;
     font-family: 'Josefin Sans', sans-serif;
     padding:5px ;
+}
+.button-box button.btn-custom:hover{
+    color: #2fbd07;
+    background-color: #ffffff;
+    transition: all 450ms linear;
 }
 .right-arrow-icon-dark{
     background-image: url('icon/arrow-right.svg');
