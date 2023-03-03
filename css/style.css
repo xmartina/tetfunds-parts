@@ -1,0 +1,141 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Kulim+Park:wght@300;400;600;700&family=Nunito:ital,wght@1,500;1,600&family=Varela&display=swap');
+/*Import Font*/
+.nav-menu-wrapper{
+    margin-top: 38px;
+    background-color: #ecebeb;
+    width: 100%;
+    padding-top: 36px;
+    padding-left: 18px;
+    padding-bottom: 23px;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+h2.nav-title{
+    font-size: 23px;
+    font-weight: 600;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.divide-icon-gray{
+    background-image: url('icon/divide-gray.svg');
+}
+.icon-grid{
+    background-image: url('icon/grid.svg');
+}
+.nav-title-icon{
+    margin-top: 9px;
+    width: 100%;
+    height: 19px;
+    display: block;
+    background-size: contain;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+.list-menu{
+    margin:18px 0;
+    cursor: pointer;
+}
+.Physical-infrastructure-icon{
+    background-image: url('icon/trello-gray.svg');
+    width: 100%;
+    height: 23px;
+    display: block;
+    background-size: contain;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+.right-arrow-icon-darkgray{
+    background-image: url('icon/arrow-up-right-dark-gray.svg');
+}
+.nav-menu-list{
+    margin-top: 18px;
+    font-family: 'Kulim Park', sans-serif;
+}
+.nav-icon-right-styling{
+    width: 100%;
+    height: 23px;
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+}
+.nav-menu-list .list-menu {
+    font-size: 15px;
+    font-weight: 600;
+}
+.justify-self-start{
+    justify-self: left;
+    text-align: left;
+}
+.justify-start{
+    justify-self: start;
+}
+
+/*Data Display Box Styling*/
+.data-display-wrapper{
+    margin-top: 38px;
+}
+.tetfund-data-box{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-radius: 5px;
+}
+.senate-building-img{
+    background-image: url('https://site.ng/imsu-tetfund/images/sen.jpg');
+}
+.data-img-box{
+    width: 100%;
+    height: 180px;
+    background-size: cover;
+    background-repeat: no-repeat;
+background-position: center;
+}
+.content-box{
+    padding:10px ;
+}
+.content-box .title{
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.content-box .content{
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.button-box{
+    padding-bottom: 12px;
+    margin-left: 9px;
+    display: flex;
+    align-items: center;
+    box-sizing: content-box;
+}
+.button-box button.btn-custom{
+    border: none;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'Josefin Sans', sans-serif;
+    padding:5px ;
+}
+.right-arrow-icon-dark{
+    background-image: url('icon/arrow-right.svg');
+}
+.btn-arrow-theme{
+    width: 17px;
+    height: 13px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin-left: 4px;
+}
+.mt-30{
+    margin-top: 30px;
+}
+@media (max-width: 450px) {
+    .mt-sm-30{
+        margin-top: 30px;
+    }
+
+}
